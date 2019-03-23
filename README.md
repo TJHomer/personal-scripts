@@ -6,3 +6,7 @@ Script to wish someone a happy birthday on Mattermost every day of their birthda
 
 # choose-your-own-adventure-shell 
 The basics of an interactive python choose your own adventure story.  Just add a plot!
+
+# refresh-internet
+Had shared internet that kicked us off all the time, then had to go through the splash screen to reconnect.  
+Wrote a script and ran it every 1 minute to prevent this from happening.
